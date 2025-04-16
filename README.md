@@ -23,7 +23,7 @@ To run this project locally, follow these steps:
 git clone https://github.com/visheshkrishna/GametimeHero-Challenge.git
 
 # Navigate into the project directory
-cd GametimeHero-Coding-Challenge
+cd GametimeHero-Challenge
 
 # Install dependencies
 npm install
