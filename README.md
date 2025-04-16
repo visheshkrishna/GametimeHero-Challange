@@ -20,7 +20,7 @@ To run this project locally, follow these steps:
 
 ```bash
 # Clone the repository
-git clone https://github.com/visheshkrishna/GametimeHero-Coding-Challenge.git
+git clone https://github.com/visheshkrishna/GametimeHero-Challenge.git
 
 # Navigate into the project directory
 cd GametimeHero-Coding-Challenge
