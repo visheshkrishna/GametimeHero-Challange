@@ -1,0 +1,40 @@
+# ========================
+# Node.js + TypeScript + Jest Project
+# ========================
+
+# Node modules
+node_modules/
+
+# Build output
+dist/
+build/
+*.js
+*.js.map
+*.tsbuildinfo
+
+# Jest coverage reports
+coverage/
+
+# Env variables and secrets
+.env
+.env.*
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# IDE/editor settings
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# macOS system files
+.DS_Store
+
+# Optional lock files (pick one)
+# Uncomment the one you're NOT using if you want others to generate their own
+# package-lock.json
+# yarn.lock
