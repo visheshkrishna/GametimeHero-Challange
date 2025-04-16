@@ -1,19 +1,20 @@
-# ========================
-# Node.js + TypeScript + Jest Project
-# ========================
-
 # Node modules
 node_modules/
 
 # Build output
 dist/
 build/
-*.js
-*.js.map
 *.tsbuildinfo
 
 # Jest coverage reports
 coverage/
+
+# Source maps
+*.js.map
+
+# Ignore all JS files EXCEPT jest.config.js
+*.js
+!jest.config.js
 
 # Env variables and secrets
 .env
@@ -33,8 +34,3 @@ yarn-error.log*
 
 # macOS system files
 .DS_Store
-
-# Optional lock files (pick one)
-# Uncomment the one you're NOT using if you want others to generate their own
-# package-lock.json
-# yarn.lock
